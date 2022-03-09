@@ -1,0 +1,40 @@
+header{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+input{
+    border-top: hidden;
+    border-right: hidden;
+    border-left: hidden;
+    text-align: center;
+    width: 300px;
+    
+}
+
+#todos{
+    margin-top: 15vh;
+    line-height: 100px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+}
+::placeholder{
+    color: orange;
+}
+
+
+button{
+    margin-top: 100px;
+    color: aliceblue;
+    background-color: black;
+    border: black;
+    font-size: 15px;
+}
+
+button:hover{
+    background-color: Orange;
+}
+
